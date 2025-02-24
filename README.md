@@ -1,7 +1,8 @@
 # Hi there 👋
 - I'll update this thing later 😄
-- Why are there HTML comments in this file/readme.md? 
+- Why are there HTML comments in this file/readme.md?
 
+- ohh.... so this is like the pinned post on your profile. And everytime you want to update/edit it you have to get into this readme file. Starting to make some sense. Learned about commit&pull
 
 
 
