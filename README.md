@@ -6,6 +6,7 @@
 - finished the GitHub Intro, time to make a simple portfolio and start building stuff.
 - This was edited in VSC 🤔
 - This aswell 👍
+- This was done on the browser 👀
 
 
 
