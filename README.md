@@ -4,9 +4,10 @@
 
 - ohh.... so this is like the pinned post on your profile. And everytime you want to update/edit it you have to get into this readme file. Starting to make some sense. Learned about commit&pull
 - finished the GitHub Intro, time to make a simple portfolio and start building stuff.
-- This was edited in VSC 🤔
-- This aswell 👍
-- This was done on the browser 👀
+
+- It took me like 15+ hours to set up my page... Getting a domain & hosting was simple but connecting all of that stuff together was pure hell. SSL certificate? messing up nginx on my Ubuntu server ... patched stuff up then wanted to connect cron with GitHub and that was hell to.
+- I did learn a ton. And the website is up & running now.
+- Back to work now
 
 
 
